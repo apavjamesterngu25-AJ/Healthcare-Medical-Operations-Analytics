@@ -6,7 +6,7 @@
 ### 📊 Interactive Executive Dashboard Click the preview dashboard below to interact with the live, responsive report. [![Hospital Markup Dashboard](Screenshot 2026-05-31 135427.png)](https://datastudio.google.com/reporting/14ceb202-8a42-4216-8b88-96320416fe95)
 ### 💡 Key Technical Metrics Delivered: * *Primary Dimension:* Provider Names (provider_name) * *Target Metric:* Value Markup Ratio (markup_ratio) * *Data Aggregation:* Top 10 Descending Ranking Order
 
-<img width="1221" height="458" alt="image" src="https://github.com/user-attachments/assets/63967aa0-74f9-4108-9acc-85b7b8e31bb0" />
+## Inpatient Charges 2014 Dashboard Click the image below to view the interactive Looker Studio report: [![Looker Studio Dashboard](dashboard.png)](https://datastudio.google.com/reporting/0b9f5c1f-5684-44f2-bcc7-161fa791930e)
 
 
 Key Insights & Business Impact
