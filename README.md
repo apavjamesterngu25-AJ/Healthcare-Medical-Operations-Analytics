@@ -6,6 +6,9 @@
 ### 📊 Interactive Executive Dashboard Click the preview dashboard below to interact with the live, responsive report. [![Hospital Markup Dashboard](Screenshot 2026-05-31 135427.png)](https://datastudio.google.com/reporting/14ceb202-8a42-4216-8b88-96320416fe95)
 ### 💡 Key Technical Metrics Delivered: * *Primary Dimension:* Provider Names (provider_name) * *Target Metric:* Value Markup Ratio (markup_ratio) * *Data Aggregation:* Top 10 Descending Ranking Order
 
+<img width="1221" height="458" alt="image" src="https://github.com/user-attachments/assets/63967aa0-74f9-4108-9acc-85b7b8e31bb0" />
+
+
 Key Insights & Business Impact
 High-Cost Driver Identification: Pinpointed that specific Diagnostic Related Groups (DRGs) account for over 45% of total hospital billing variances across US states.
 
