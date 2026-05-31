@@ -5,7 +5,6 @@
 ## 🏥 Healthcare & Medical Operations Analytics Analyzed historical inpatient charges data using Google BigQuery to isolate and rank hospitals with the highest cost markup ratios relative to actual medical payments.
 ### 📊 Interactive Executive Dashboard Click the preview dashboard below to view the interactive Looker Studio report: [![Looker Studio Dashboard](dashboard.png)](https://datastudio.google.com/reporting/0b9f5c1f-5684-44f2-bcc7-161fa791930e)
 ### 💡 Key Technical Metrics Delivered: * *Primary Dimension:* Provider Names (provider_name) * *Target Metric:* Value Markup Ratio (markup_ratio) * *Data Aggregation:* Top 10 Descending Ranking Order
-
 ## Inpatient Charges 2014 Dashboard Click the image below to view the interactive Looker Studio report: [![Looker Studio Dashboard](dashboard.png)](https://datastudio.google.com/reporting/0b9f5c1f-5684-44f2-bcc7-161fa791930e)
 
 
