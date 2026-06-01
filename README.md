@@ -4,7 +4,6 @@
 
 ## 🏥 Healthcare & Medical Operations Analytics Analyzed historical inpatient charges data using Google BigQuery to isolate and rank hospitals with the highest cost markup ratios relative to actual medical payments.
 ![Healthcare Dashboard Preview](Screenshot%202026-05-31%20151712.png)
-### 💡 Key Technical Metrics Delivered: * *Primary Dimension:* Provider Names (provider_name) * *Target Metric:* Value Markup Ratio (markup_ratio) * *Data Aggregation:* Top 10 Descending Ranking Order
 
 Key Insights & Business Impact
 High-Cost Driver Identification: Pinpointed that specific Diagnostic Related Groups (DRGs) account for over 45% of total hospital billing variances across US states.
@@ -18,9 +17,7 @@ Resource Optimization: Found that elective procedure volumes peak significantly 
 ### 📌 Project Overview This project focuses on blockchain data analysis to trace financial assets and measure economic throughput on the Ethereum mainnet. By analyzing transactional patterns, this study provides insights into Web3 network congestion patterns and gas optimization fees.
 
 # Ethereum Transaction Analytics An end-to-end analytics project tracking daily Ethereum network activity using Google BigQuery and Looker Studio. 
-## 📊 Live Interactive Dashboard Click the image below to view the live, dynamic dashboard: [![Ethereum Dashboard](dashboard-preview.png)](https://datastudio.google.com/reporting/b434ab5e-d2a0-48ef-9644-1a34f8e71c83) --- 
-## 🛠️ Tech Stack * *Data Source:* Google BigQuery Public Datasets * *Data Processing:* SQL (GoogleSQL) * *Visualization:* Google Looker Studio
-
+![Daily Transaction Count Preview](Screenshot%202026-05-31%20224906.png)
 
 Key Insights & Business Impact
 
