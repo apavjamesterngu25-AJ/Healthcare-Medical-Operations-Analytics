@@ -3,7 +3,7 @@
 ### 📌 Project Overview This project performs an in-depth data analytics review of US hospital billing practices using public healthcare data. The analysis focuses on understanding hospital cost markups and geographic price variations across medical procedures. The objective is to identify systemic pricing inefficiencies, extreme markup ratios, and regional cost discrepancies to improve financial transparency in medical operations. 
 
 ## 🏥 Healthcare & Medical Operations Analytics Analyzed historical inpatient charges data using Google BigQuery to isolate and rank hospitals with the highest cost markup ratios relative to actual medical payments.
-### 📊 Interactive Executive Dashboard Click the preview dashboard below to view the interactive Looker Studio report: [![Looker Studio Dashboard](dashboard.png)](https://datastudio.google.com/reporting/0b9f5c1f-5684-44f2-bcc7-161fa791930e)
+![Healthcare Dashboard Preview](Screenshot%202026-05-31%20151712.png)
 ### 💡 Key Technical Metrics Delivered: * *Primary Dimension:* Provider Names (provider_name) * *Target Metric:* Value Markup Ratio (markup_ratio) * *Data Aggregation:* Top 10 Descending Ranking Order
 
 Key Insights & Business Impact
