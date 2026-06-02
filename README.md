@@ -7,6 +7,8 @@
 
  <img width="705" height="409" alt="Screenshot 2026-06-02 045246" src="https://github.com/user-attachments/assets/a6d29b18-4078-4df2-9d2f-64657d8821ef" />
 
+<img width="686" height="451" alt="Screenshot 2026-06-02 050602" src="https://github.com/user-attachments/assets/c6026849-036c-4f31-a442-c917cca8cf93" />
+
 
 Key Insights & Business Impact
 High-Cost Driver Identification: Pinpointed that specific Diagnostic Related Groups (DRGs) account for over 45% of total hospital billing variances across US states.
