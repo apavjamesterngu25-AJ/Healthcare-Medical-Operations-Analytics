@@ -27,6 +27,9 @@ Resource Optimization: Found that elective procedure volumes peak significantly 
 
 <img width="687" height="449" alt="Screenshot 2026-06-02 034822" src="https://github.com/user-attachments/assets/c5935d76-1d93-4a21-bff5-e74cb2a1368f" />
 
+<img width="727" height="381" alt="Screenshot 2026-06-02 051701" src="https://github.com/user-attachments/assets/f4494aac-4fb2-4f09-977b-c05193d38ce2" />
+
+
 Key Insights & Business Impact
 
 high-volume micro-transactions during specific off-peak hours, highlighting potential automated smart contract interactions or arbitrage behavior.
