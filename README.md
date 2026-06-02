@@ -3,7 +3,8 @@
 ### 📌 Project Overview This project performs an in-depth data analytics review of US hospital billing practices using public healthcare data. The analysis focuses on understanding hospital cost markups and geographic price variations across medical procedures. The objective is to identify systemic pricing inefficiencies, extreme markup ratios, and regional cost discrepancies to improve financial transparency in medical operations. 
 
 ## 🏥 Healthcare & Medical Operations Analytics Analyzed historical inpatient charges data using Google BigQuery to isolate and rank hospitals with the highest cost markup ratios relative to actual medical payments.
-![Healthcare Dashboard Preview](Screenshot%202026-05-31%20151712.png)
+<img width="704" height="439" alt="Screenshot 2026-06-02 042952" src="https://github.com/user-attachments/assets/60d8112a-a8ae-4018-ac68-1b3e711767b7" />
+
  ![Healthcare Procedures Treemap](Screenshot%202026-06-01%20233931.png)
 
 Key Insights & Business Impact
