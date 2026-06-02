@@ -5,7 +5,8 @@
 ## 🏥 Healthcare & Medical Operations Analytics Analyzed historical inpatient charges data using Google BigQuery to isolate and rank hospitals with the highest cost markup ratios relative to actual medical payments.
 <img width="704" height="439" alt="Screenshot 2026-06-02 042952" src="https://github.com/user-attachments/assets/60d8112a-a8ae-4018-ac68-1b3e711767b7" />
 
- ![Healthcare Procedures Treemap](Screenshot%202026-06-01%20233931.png)
+ <img width="705" height="409" alt="Screenshot 2026-06-02 045246" src="https://github.com/user-attachments/assets/a6d29b18-4078-4df2-9d2f-64657d8821ef" />
+
 
 Key Insights & Business Impact
 High-Cost Driver Identification: Pinpointed that specific Diagnostic Related Groups (DRGs) account for over 45% of total hospital billing variances across US states.
