@@ -18,7 +18,8 @@ Resource Optimization: Found that elective procedure volumes peak significantly 
 ### 📌 Project Overview This project focuses on blockchain data analysis to trace financial assets and measure economic throughput on the Ethereum mainnet. By analyzing transactional patterns, this study provides insights into Web3 network congestion patterns and gas optimization fees.
 
 # Ethereum Transaction Analytics An end-to-end analytics project tracking daily Ethereum network activity using Google BigQuery and Looker Studio. 
-![Daily Transaction Count Preview](Screenshot%202026-05-31%20224906.png)
+<img width="634" height="359" alt="Screenshot 2026-06-02 041544" src="https://github.com/user-attachments/assets/a175fded-497e-423a-bebc-5f7ec18f519d" />
+
 
 <img width="687" height="449" alt="Screenshot 2026-06-02 034822" src="https://github.com/user-attachments/assets/c5935d76-1d93-4a21-bff5-e74cb2a1368f" />
 
