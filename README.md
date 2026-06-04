@@ -25,7 +25,8 @@ Resource Optimization: Found that elective procedure volumes peak significantly 
 <img width="634" height="359" alt="Screenshot 2026-06-02 041544" src="https://github.com/user-attachments/assets/a175fded-497e-423a-bebc-5f7ec18f519d" />
 
 
-<img width="687" height="449" alt="Screenshot 2026-06-02 034822" src="https://github.com/user-attachments/assets/c5935d76-1d93-4a21-bff5-e74cb2a1368f" />
+<img width="782" height="439" alt="Screenshot 2026-06-04 213919" src="https://github.com/user-attachments/assets/8b83b191-90b9-4d15-8395-9e77bea98000" />
+
 
 <img width="727" height="381" alt="Screenshot 2026-06-02 051701" src="https://github.com/user-attachments/assets/f4494aac-4fb2-4f09-977b-c05193d38ce2" />
 
